@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import FirstForm from './FirstForm'
 import SecondForm from './SecondForm';
 import ThirdForm from './ThirdForm';
-import './transition.css'
 import FourthStep from "../FourthStep";
 
 class Form extends Component{
